@@ -1,0 +1,2 @@
+Auto Password Generator 🔒
+A web application built using HTML, CSS, and JavaScript to generate secure and customizable passwords. Users can set password length and include specific character types like uppercase, lowercase, numbers, and special characters. This project demonstrates practical web development skills and ensures user-friendly functionality.
